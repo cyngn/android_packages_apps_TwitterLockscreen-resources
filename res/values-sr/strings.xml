@@ -10,6 +10,7 @@
   <string name="offline_message">Конектуј се поново на интернет да \n се допуни и покрени поново.</string>
   <!-- Settings strings -->
   <string name="pref_wifi_only_title">Само Wi-Fi</string>
+  <string name="pref_wifi_only_summary">Омогући овај закључани екран само када је уређај конектован на бежичну мрежу.</string>
   <string name="just_now">Управо сада</string>
   <string name="tap_again">Додирни поново да би отворио у апликацији</string>
 </resources>
