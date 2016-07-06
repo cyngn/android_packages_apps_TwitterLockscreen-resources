@@ -4,6 +4,7 @@
   <string name="tweets_up_down">%1$d upp. %1$d ner.</string>
   <string name="swipe_left">Svep åt vänster för att se nästa 5</string>
   <string name="read_more">Redo att läsa mer?</string>
+  <string name="go_to_twitter">Gå till Twitter</string>
   <string name="offline_title">För närvarande offline.</string>
   <!-- Settings strings -->
 </resources>
