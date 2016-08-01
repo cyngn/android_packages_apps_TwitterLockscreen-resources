@@ -3,8 +3,12 @@
 <resources>
   <string name="nicely_done">יפה מאוד.</string>
   <string name="tweets_up_down">%1$d למעלה. %1$d למטה.</string>
+  <string name="swipe_left">החלק שמאלה לצפייה ב־5 הבאים</string>
   <string name="read_more">מוכנים לקרוא עוד?</string>
+  <string name="go_to_twitter">עבור לטוויטר</string>
   <string name="offline_title">לא מקוון כרגע.</string>
   <!-- Settings strings -->
   <string name="pref_wifi_only_title">Wi-Fi בלבד</string>
+  <string name="just_now">ממש הרגע</string>
+  <string name="tap_again">יש לגעת שוב כדי לפתוח ביישום</string>
 </resources>
