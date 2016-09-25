@@ -10,7 +10,7 @@
   <string name="offline_message">Подключитесь к интернету, чтобы \n заработала лента.</string>
   <!-- Settings strings -->
   <string name="pref_wifi_only_title">Только Wi-Fi</string>
-  <string name="pref_wifi_only_summary">Включать этот экран блокировки только если устройство подключено к беспроводной сети.</string>
+  <string name="pref_wifi_only_summary">Включать этот экран блокировки, только если устройство подключено к беспроводной сети.</string>
   <string name="just_now">Только что</string>
   <string name="tap_again">Нажмите снова, чтобы открыть в приложении</string>
 </resources>

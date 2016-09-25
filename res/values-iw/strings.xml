@@ -7,8 +7,10 @@
   <string name="read_more">מוכנים לקרוא עוד?</string>
   <string name="go_to_twitter">עבור לטוויטר</string>
   <string name="offline_title">לא מקוון כרגע.</string>
+  <string name="offline_message">התחבר מחדש לאינטרנט כדי להפוך \n את הפיד שלך לפעיל שוב.</string>
   <!-- Settings strings -->
   <string name="pref_wifi_only_title">Wi-Fi בלבד</string>
+  <string name="pref_wifi_only_summary">יש להפעיל מסך נעילה זה רק אם ההתקן מחובר לרשת אלחוטית.</string>
   <string name="just_now">ממש הרגע</string>
   <string name="tap_again">יש לגעת שוב כדי לפתוח ביישום</string>
 </resources>
